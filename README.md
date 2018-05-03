@@ -4,7 +4,7 @@
 
 ## Running tests
 
-Install dev dependencies:
+Install and test:
 
 ```sh
 $ npm i -d && npm test
